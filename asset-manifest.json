@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tiaggaws7/Eisenhower/static/css/main.29a9566b.chunk.css",
+    "main.js": "/Tiaggaws7/Eisenhower/static/js/main.f24707ef.chunk.js",
+    "main.js.map": "/Tiaggaws7/Eisenhower/static/js/main.f24707ef.chunk.js.map",
+    "runtime-main.js": "/Tiaggaws7/Eisenhower/static/js/runtime-main.3b45349d.js",
+    "runtime-main.js.map": "/Tiaggaws7/Eisenhower/static/js/runtime-main.3b45349d.js.map",
+    "static/js/2.f442fe3b.chunk.js": "/Tiaggaws7/Eisenhower/static/js/2.f442fe3b.chunk.js",
+    "static/js/2.f442fe3b.chunk.js.map": "/Tiaggaws7/Eisenhower/static/js/2.f442fe3b.chunk.js.map",
+    "static/js/3.338c1167.chunk.js": "/Tiaggaws7/Eisenhower/static/js/3.338c1167.chunk.js",
+    "static/js/3.338c1167.chunk.js.map": "/Tiaggaws7/Eisenhower/static/js/3.338c1167.chunk.js.map",
+    "index.html": "/Tiaggaws7/Eisenhower/index.html",
+    "static/css/main.29a9566b.chunk.css.map": "/Tiaggaws7/Eisenhower/static/css/main.29a9566b.chunk.css.map",
+    "static/js/2.f442fe3b.chunk.js.LICENSE.txt": "/Tiaggaws7/Eisenhower/static/js/2.f442fe3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b45349d.js",
+    "static/js/2.f442fe3b.chunk.js",
+    "static/css/main.29a9566b.chunk.css",
+    "static/js/main.f24707ef.chunk.js"
+  ]
+}
